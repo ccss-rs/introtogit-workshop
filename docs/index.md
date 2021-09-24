@@ -1,4 +1,4 @@
-or# Introduction to Git
+# Introduction to Git
 
 This workshop will help get you started with Git. This tool helps track changes made in project documents such as program files or source codes, effectively versioning them and allowing teams to collaborate via a central repository hub such as Github, Bitbucket, or Gitlab. This workshop covers configuring and initializing a git repository; editing, staging, and committing files; branching and retrieving previous versions of files; and setting up a repository on Github for individual or project team collaboration.
 
