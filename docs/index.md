@@ -12,10 +12,10 @@ There will be hands-on exercises using git and Github. This workshop will be tau
 2.	Create a Github account (https://github.com/).  Take note of the e-mail address you used to set up this account. You need this to configure your git account) 
  
 3.	Use a browser and go to ccss-rs/introtogit-workshop: Materials for CCSS Introduction to git workshop (github.com)
-   a.	Download the Git_Workshop_Handout.docx 
-   Click Git_Workshop_Handout.docx, then click Download.  The handout contains the step-by-step guide to this workshop. Best to print this before the workshop or display this on a second monitor.
-   b.	Download GitTrain.zip
-   Click GitTrain.zip, then click Download. Then unzip it on your local drive (say C drive). The GitTrain folder will be our project folder and local git repository.
+   a.	Download the Git_Workshop_Handout.docx   
+   Click Git_Workshop_Handout.docx, then click Download.  The handout contains the step-by-step guide to this workshop. Best to print this before the workshop or display this on a second monitor.  
+   b.	Download GitTrain.zip  
+   Click GitTrain.zip, then click Download. Then unzip it on your local drive (say C drive). The GitTrain folder will be our project folder and local git repository.  
 
 
 
